@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Nexus AI",
+  "description": "A comprehensive AI workspace featuring chat with search grounding, image generation, visual analysis, and text-to-speech capabilities powered by the latest Gemini models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
